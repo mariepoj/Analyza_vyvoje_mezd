@@ -1,4 +1,5 @@
-# Analyza_vyvoje_mezd
+# Analýza vývoje mezd
+
 Analýza vývoje mezd v ČR v letech 2011 - 2024 (Python + Power BI)
 
 Tento projekt se zabývá analýzou českých mzdových dat scrapenutých z ISPV.cz pomocí Pythonu a vizualizací klíčových zjištění v Power BI.  
