@@ -25,11 +25,11 @@ Projekt je rozdělen do dvou částí:
 
 ## Struktura repozitáře
 
-data_vek/               # data podle věkových skupin
-data_vzdelani/          # data podle vzdělání
-inflace_2000_2025/      # data o inflaci
-Projekt.ipynb           # Jupyter Notebook s analýzou
-vizualizace.pbix        # Power BI dashboard
+- data_vek/               # data podle věkových skupin
+- data_vzdelani/          # data podle vzdělání
+- inflace_2000_2025/      # data o inflaci
+- Projekt.ipynb           # Jupyter Notebook s analýzou
+- vizualizace.pbix        # Power BI dashboard
 
 ## Použité technologie
 
@@ -54,7 +54,6 @@ vizualizace.pbix        # Power BI dashboard
 <img width="1452" height="845" alt="image" src="https://github.com/user-attachments/assets/7c180f83-320d-4adc-895a-31c821fc2735" />
 <img width="1282" height="726" alt="image" src="https://github.com/user-attachments/assets/2ef14734-1a26-446c-8734-0c0e30229768" />
 
-## Author
+## Autor
 
-Created by #Marie #Pojarová, 
-Data Analyst focused on Power BI, data modeling, and clean, user‑friendly dashboard design.
+Marie Pojarová
